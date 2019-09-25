@@ -1,0 +1,418 @@
+Id,Bedrooms,Bathrooms,Sqft,Condition,Zip Code,Latitude,Longitude,Pricing,Area,Features,Rent 
+2,3,3,2206,Good,390007,22.28706,73.12825,30000,Vasna-Bhayli Road,"Lift,Security/Fire Alarm,Reserved Parking",30000
+3,3,3,1400,Good,390011,22.273439,73.196983,16000,Manjalpur,Reserved Parking,16000
+4,1,1,1000,Good,390020,22.293989,73.176109,14000,Akota,Reserved Parking,14000
+5,3,2,1700,Excellent ,390018,22.320009,73.206841,3000,Karelibaug,"Private Garden,Water Storage",3000
+6,1,1,850,Good,390003,30.912939,77.516777,3000,Gorwa,Reserved Parking,3000
+7,1,1,500,Good,390021,22.308994,73.132439,3500,Gotri,"Reserved Parking,Water Storage",3500
+8,1,1,1000,Good,390021,22.308994,73.132439,3500,Gotri,"Reserved Parking,Security",3500
+9,1,1,700,Good,390024,22.455036,73.192182,4000,Sama-Savli Road,Parking,4000
+10,1,1,550,Good,390003,30.912939,77.516777,4000,Gorwa,"Park,Water Storage,Reserved Parking",4000
+11,1,1,1200,Very Good,390020,22.293989,73.176109,4500,Akota,"Security,Reserved Parking",4500
+12,1,1,1000,Good,390021,22.308994,73.132439,4500,Gotri,"Security,Reserved Parking",4500
+13,1,1,600,Good,390014,22.247517,73.188065,4500,Makarpura,Reserved Parking,4500
+14,1,1,1000,Good,390020,22.293989,73.176109,4500,Akota,"Security,Reserved Parking",4500
+15,1,1,425,Very Good,390003,30.912939,77.516777,4500,Gorwa,"Reserved Parking,Centrally AC",4500
+16,2,2,1000,Very Good,390009,22.255501,73.216438,5000,Tarsali,Reserved Parking,5000
+17,1,1,700,Good,390020,22.293989,73.176109,5000,Akota,"Security,Reserved Parking",5000
+18,1,1,1000,Good,390020,22.293989,73.176109,5000,Akota,Reserved Parking,5000
+19,1,1,700,Good,390003,30.912939,77.516777,5500,Gorwa,Reserved Parking,5500
+20,1,1,800,Good,390021,22.308994,73.132439,5500,Gotri,Reserved Parking,5500
+21,2,1,556,Excellent ,390014,22.247517,73.188065,5500,Makarpura,"Security,Reserved Parking,Park,Lift",5500
+22,1,1,1150,Very Good,390009,22.255501,73.216438,5500,Tarsali,"Security,Reserved Parking,Park,Water Storage",5500
+23,1,1,600,Good,391740,22.34415,73.16609,5500,Channi Jakat Naka,Reserved Parking,5500
+24,1,1,1200,Good,391740,22.34415,73.16609,5500,Channi Jakat Naka,Water Storage,5500
+25,1,1,550,Good,390011,22.273439,73.196983,5500,Manjalpur,Reserved Parking,5500
+26,1,1,1100,Very Good,390014,22.247517,73.188065,5500,Makarpura,Reserved Parking,5500
+27,2,2,1000,Good,390014,22.247517,73.188065,6000,Makarpura,Reserved Parking,6000
+28,2,2,1115,Good,390021,22.308994,73.132439,6000,Gotri,Reserved Parking,6000
+29,1,1,750,Good,390003,30.912939,77.516777,6000,Gorwa,"Reserved Parking,Water Storage",6000
+30,1,1,1000,Good,390014,22.247517,73.188065,6000,Makarpura,"Reserved Parking,Park",6000
+31,1,1,750,Very Good,390003,30.912939,77.516777,6000,Gorwa,"Reserved Parking,Park",6000
+32,1,1,650,Good,391740,22.34415,73.16609,6000,TP 13,Reserved Parking,6000
+33,1,1,750,Good,390018,22.320009,73.206841,6000,Karelibaug,"Reserved Parking,Water Storage",6000
+34,2,2,1000,Good,390021,22.308994,73.132439,6000,Gotri,Reserved Parking,6000
+35,1,1,1000,Good,390021,22.308994,73.132439,6000,Gotri,"Security,Reserved Parking",6000
+36,2,2,900,Good,390022,24.39711,84.474808,6000,Harni,"Security,Reserved Parking,Park,Lift",6000
+37,2,2,900,Very Good,390007,22.28706,73.12825,6000,Bhayli Road,"Security,Reserved Parking,Park,Lift,Gym,Swimmin Pool",6000
+38,1,1,600,Very Good,391410,28.560324,77.161728,6000,Vasant Vihar,"Security,Reserved Parking,Park,Lift,Water Storage",6000
+39,2,2,800,Good,390007,22.28706,73.12825,6000,Bhayli Road,Reserved Parking,6000
+40,1,1,750,Good,390003,30.912939,77.516777,6000,Gorwa,Reserved Parking,6000
+41,1,1,1000,Good,390021,22.308994,73.132439,6000,Gotri,"Security,Reserved Parking",6000
+42,1,1,650,Good,390018,22.320009,73.206841,6000,Karelibaug,Reserved Parking,6000
+43,2,2,1021,Very Good,390021,22.308994,73.132439,6000,Gotri,"Security,Reserved Parking,Lift,Fire Alarm",6000
+44,2,2,1015,Good,390021,22.308994,73.132439,6000,Gotri,"Reserved Parking,Centrally AC,Lift,Park",6000
+45,1,1,1000,Good,390003,30.912939,77.516777,6000,Gorwa,Reserved Parking,6000
+46,2,2,1112,Excellent ,390007,22.28706,73.12825,6500,Bhayli Road,"Security,Reserved Parking,Park,Lift",6500
+47,1,1,1000,Good,390021,22.308994,73.132439,6500,Gotri,"Security,Reserved Parking",6500
+48,2,2,1000,Good,390009,22.255501,73.216438,6500,Tarsali,Reserved Parking,6500
+49,2,2,1350,Good,390009,22.255501,73.216438,6500,Tarsali,Reserved Parking,6500
+50,1,1,850,Good,390021,22.308994,73.132439,6500,Gotri,Reserved Parking,6500
+51,2,2,1000,Good,390009,22.255501,73.216438,6500,Tarsali,Reserved Parking,6500
+52,1,1,1110,Good,390018,22.320009,73.206841,6500,Karelibaug,Reserved Parking,6500
+53,2,2,1000,Very Good,390021,22.308994,73.132439,6500,Gotri,"Lift,Water Storage,Reserved Parking",6500
+54,2,2,1066,Very Good,390007,22.28706,73.12825,6500,Bhayli Road,"Reserved Parking,Lift,Park,Gym",6500
+55,2,2,1100,Very Good,390007,22.28706,73.12825,6500,Vasna-Bhayli Road,"Reserved Parking,Lift,Park,Gym",6500
+56,2,2,1350,Good,390009,22.255501,73.216438,6500,Tarsali,Reserved Parking,6500
+57,1,1,1000,Good,390021,22.308994,73.132439,6500,Gotri,"Security,Reserved Parking",6500
+58,2,2,1085,Good,391740,22.34415,73.16609,6500,Channi Jakat Naka,"Lift,Park",6500
+59,1,1,650,Good,390021,22.308994,73.132439,6500,Gotri,"Security,Reserved Parking",6500
+60,2,2,1200,Very Good,391740,22.34415,73.16609,6500,Channi ,"Security,Reserved Parking,Park,Lift",6500
+61,1,1,650,Good,390003,30.912939,77.516777,6500,Gorwa,Reserved Parking,6500
+62,1,1,600,Good,390003,30.912939,77.516777,6500,Gorwa,Reserved Parking,6500
+63,1,1,1000,Good,390021,22.308994,73.132439,6500,Gotri,"Security,Reserved Parking",6500
+64,1,1,700,Good,390003,30.912939,77.516777,6500,Gorwa,Reserved Parking,6500
+65,2,2,1700,Excellent ,390011,22.273439,73.196983,6500,Manjalpur,"Security,Reserved Parking",6500
+66,1,1,1000,Good,390021,22.308994,73.132439,6500,Gotri,"Security,Reserved Parking",6500
+67,1,1,300,Good,390018,22.320009,73.206841,6500,Karelibaug,,6500
+68,2,2,880,Very Good,390014,22.247517,73.188065,6500,Makarpura,"Security,Reserved Parking,Lift,Park",6500
+69,1,1,650,Good,390021,22.308994,73.132439,6500,Gotri,"Security,Reserved Parking",6500
+70,1,1,1000,Good,390021,22.308994,73.132439,6500,Gotri,"Security,Reserved Parking",6500
+71,2,2,900,Good,391740,22.34415,73.16609,7000,TP 13,Reserved Parking,7000
+72,1,1,900,Good,390018,22.320009,73.206841,7000,Karelibaug,"Reserved Parking,Garden,Park",7000
+73,2,2,900,Very Good,390007,22.28706,73.12825,7000,Vasna-Bhayli Road,"Reserved Parking,Water Storage,Lift,Park",7000
+74,2,2,1000,Good,390007,22.28706,73.12825,7000,Vasna-Bhayli Road,"Reserved Parking,Lift",7000
+75,2,2,1250,Very Good,390007,22.28706,73.12825,7000,Vasna-Bhayli Road,"Reserved Parking,Water Storage,Lift,Fire Alarm",7000
+76,1,1,600,Good,390021,22.308994,73.132439,7000,Gotri,Reserved Parking,7000
+77,2,2,1000,Very Good,390007,22.28706,73.12825,7000,Bhayli Road,"Reserved Parking,Lift",7000
+78,1,1,1130,Good,390024,22.455036,73.192182,7000,Sama-Savli Road,"Reserved Parking,Water Storage",7000
+79,2,2,1200,Good,390007,22.28706,73.12825,7000,Vasna-Bhayli Road,,7000
+80,2,2,1100,Good,390003,30.912939,77.516777,7000,Gorwa,Reserved Parking,7000
+81,1,1,850,Good,390003,30.912939,77.516777,7000,Gorwa,Reserved Parking,7000
+82,3,3,1400,Very Good,390007,22.28706,73.12825,7000,Bhayli Road,"Security,Reserved Parking,Lift,Park",7000
+83,1,1,900,Very Good,390018,22.320009,73.206841,7000,Karelibaug,"Reserved Parking,Garden,Park,Water Storage",7000
+84,2,2,975,Good,390009,22.255501,73.216438,7000,Tarsali,"Reserved Parking,Garden,Water Storage",7000
+85,2,2,1200,Good,390007,22.28706,73.12825,7000,Vasna-Bhayli Road,Reserved Parking,7000
+86,2,2,850,Good,390021,22.308994,73.132439,7000,Gotri,"Security,Reserved Parking,Lift,Park",7000
+87,2,2,750,Good,390011,22.273439,73.196983,7000,Manjalpur,Water Storage,7000
+88,2,2,1000,Good,390007,22.28706,73.12825,7000,Vasna-Bhayli Road,"Reserved Parking,Lift",7000
+89,2,2,1050,Very Good,390007,22.28706,73.12825,7000,Bhayli Road,"Security,Reserved Parking,Lift,Park",7000
+90,2,2,650,Good,390007,22.28706,73.12825,7000,Vasna-Bhayli Road,"Reserved Parking,Lift,Park,Security",7000
+91,1,1,500,Good,390018,22.320009,73.206841,7000,Karelibaug,"Reserved Parking,Water Storage",7000
+92,2,2,1100,Good,390003,30.912939,77.516777,7000,Gorwa,Reserved Parking,7000
+93,2,2,1000,Excellent ,390022,24.39711,84.474808,7000,Harni,"Security,Reserved Parking,Park,Lift,Water Storage",7000
+94,2,2,1250,Very Good,390007,22.28706,73.12825,7000,Vasna-Bhayli Road,"Reserved Parking,Lift,Fire Alarm,Water Storage",7000
+95,2,2,1300,Good,390003,30.912939,77.516777,7000,Gorwa,Reserved Parking,7000
+96,1,1,600,Good,390021,22.308994,73.132439,7000,Gotri,Reserved Parking,7000
+97,2,2,2000,Very Good,391740,22.34415,73.16609,7000,Channi ,"Security,Reserved Parking,Park,Lift",7000
+98,1,1,1130,Good,390024,22.455036,73.192182,7000,Sama-Savli Road,"Reserved Parking,Water Storage",7000
+99,1,1,900,Good,390018,22.320009,73.206841,7000,Karelibaug,"Reserved Parking,Park,Garden",7000
+100,2,2,1000,Good,390014,22.247517,73.188065,7000,Makarpura,Reserved Parking,7000
+101,3,3,1600,Good,390007,22.28706,73.12825,7000,Vasna-Bhayli Road,Reserved Parking,7000
+102,2,2,1015,Good,390021,22.308994,73.132439,7000,Gotri,"Reserved Parking,Lift,Centrally AC",7000
+103,2,2,1050,Good,390021,22.308994,73.132439,7000,Gotri,"Reserved Parking,Park,Lift",7000
+104,3,3,1300,Very Good,390007,22.28706,73.12825,7200,Vasna-Bhayli Road,"Reserved Parking,Lift,Fire Alarm,Water Storage",7200
+105,2,2,1050,Very Good,390022,24.39711,84.474808,7500,Harni,"Reserved Parking,Lift,Park,Security,Water Storage",7500
+106,2,2,1021,Good,390021,22.308994,73.132439,7500,Gotri,"Reserved Parking,Park,Lift",7500
+107,2,2,1200,Good,390003,30.912939,77.516777,7500,Gorwa,"Reserved Parking,Lift,Park",7500
+108,1,1,1400,Good,390003,30.912939,77.516777,7500,Gorwa,Reserved Parking,7500
+109,2,2,1100,Very Good,390009,22.255501,73.216438,7500,Tarsali,"Reserved Parking,Garden,Water Storage,Park",7500
+110,1,1,700,Good,390018,22.320009,73.206841,7500,Karelibaug,"Reserved Parking,Water Storage",7500
+111,1,1,1400,Good,390003,30.912939,77.516777,7500,Gorwa,Reserved Parking,7500
+112,3,3,1400,Very Good,390009,22.255501,73.216438,7500,Tarsali,"Reserved Parking,Garden,Water Storage,Park",7500
+113,2,2,3850,Good,390009,22.255501,73.216438,7500,Tarsali,"Reserved Parking,Garden,Water Storage",7500
+114,2,2,1000,Good,390024,22.455036,73.192182,7500,Sama-Savli Road,Reserved Parking,7500
+115,1,1,750,Good,390018,22.320009,73.206841,7500,Karelibaug,"Reserved Parking,Water Storage",7500
+116,1,1,1200,Good,390024,22.455036,73.192182,7500,Sama-Savli Road,Reserved Parking,7500
+117,1,1,700,Good,390018,22.320009,73.206841,7500,Karelibaug,"Reserved Parking,Lift",7500
+118,2,2,1200,Good,390003,30.912939,77.516777,7500,Gorwa,"Reserved Parking,Lift,Park",7500
+119,1,1,1000,Good,390003,30.912939,77.516777,7500,Gorwa,Reserved Parking,7500
+120,2,2,1115,Very Good,390021,22.308994,73.132439,7500,Gotri,"Reserved Parking,Park,Lift,Security",7500
+121,2,2,1200,Good,390021,22.308994,73.132439,7500,Gotri,Reserved Parking,7500
+122,2,2,1021,Very Good,390021,22.308994,73.132439,7500,Gotri,"Reserved Parking,Park,Lift,Security",7500
+123,2,2,900,Good,390021,22.308994,73.132439,7500,Gotri,"Reserved Parking,Water Storage",7500
+124,2,2,910,Good,390021,22.308994,73.132439,7500,Gotri,Reserved Parking,7500
+125,3,3,1506,Good,390003,30.912939,77.516777,7500,Gorwa,Reserved Parking,7500
+126,2,2,1050,Very Good,390022,24.39711,84.474808,7500,Harni,"Reserved Parking,Lift,Park,Security,Water Storage",7500
+127,2,2,1000,Very Good,390022,24.39711,84.474808,7500,Harni,"Reserved Parking,Lift,Park,Security,Water Storage",7500
+128,2,2,1350,Good,390003,30.912939,77.516777,8000,Gorwa,"Reserved Parking,Park,Lift,Security",8000
+129,2,2,850,Good,390003,30.912939,77.516777,8000,Gorwa,Reserved Parking,8000
+130,1,1,800,Good,390021,22.308994,73.132439,8000,Gotri,"Reserved Parking,Lift,Park",8000
+131,3,3,1100,Good,390003,30.912939,77.516777,8000,Gorwa,Reserved Parking,8000
+132,1,1,650,Very Good,390019,22.3025819,73.396912,8000,Waghodia ,"Reserved Parking,Park,Lift,Security",8000
+133,3,3,607,Good,390019,22.3025819,73.396912,8000,Waghodia ,Reserved Parking,8000
+134,1,1,800,Good,390019,22.3025819,73.396912,8000,Waghodia ,Lift,8000
+135,4,4,1500,Good,390019,22.3025819,73.396912,8000,Waghodia ,Reserved Parking,8000
+136,1,1,922,Good,391740,22.34415,73.16609,8000,TP 13,Reserved Parking,8000
+137,2,2,1100,Very Good,390022,24.39711,84.474808,8000,Harni,"Reserved Parking,Lift,Park,Security,Water Storage",8000
+138,2,2,1000,Good,390011,22.273439,73.196983,8000,Manjalpur,Water Storage,8000
+139,2,2,1050,Good,390021,22.308994,73.132439,8000,Gotri,"Reserved Parking,Lift,Park",8000
+140,1,1,850,Good,390003,30.912939,77.516777,8000,Gorwa,Reserved Parking,8000
+141,2,2,1250,Good,390021,22.308994,73.132439,8000,Gotri,"Reserved Parking,Park,Lift,Security",8000
+142,2,2,1050,Good,390021,22.308994,73.132439,8000,Gotri,"Lift,Park",8000
+143,4,4,1500,Good,390019,22.3025819,73.396912,8000,Waghodia ,Reserved Parking,8000
+144,2,2,1050,Excellent ,390021,22.308994,73.132439,8000,Gotri,"Reserved Parking,Lift,Security,Park,Water Storage",8000
+145,2,2,750,Good,390003,30.912939,77.516777,8000,Gorwa,Reserved Parking,8000
+146,2,2,900,Good,390003,30.912939,77.516777,8000,Gorwa,Reserved Parking,8000
+147,2,2,750,Good,390003,30.912939,77.516777,8000,Gorwa,Reserved Parking,8000
+148,2,2,1100,Good,390003,30.912939,77.516777,8000,Gorwa,Reserved Parking,8000
+149,2,2,900,Good,390021,22.308994,73.132439,8000,Gotri,"Reserved Parking,Water Storage,Park",8000
+150,2,2,1300,Good,390011,22.273439,73.196983,8000,Manjalpur,Reserved Parking,8000
+151,2,2,1100,Very Good,390021,22.308994,73.132439,8000,Gotri,"Reserved Parking,Lift,Security,Fire Alarm,Water Storage",8000
+152,2,2,1075,Very Good,390021,22.308994,73.132439,8000,Gotri,"Reserved Parking,Lift,Security,Fire Alarm,Water Storage",8000
+153,2,2,1200,Good,390021,22.308994,73.132439,8500,Gotri,"Reserved Parking,Water Storage,Fire Alarm",8500
+154,2,2,1100,Good,390021,22.308994,73.132439,8500,Gotri,Reserved Parking,8500
+155,2,2,1600,Excellent ,390003,30.912939,77.516777,8500,Gorwa,"Reserved Parking,Lift,Security,Fire Alarm,Water Storage",8500
+156,2,2,1050,Good,390009,22.255501,73.216438,8500,Tarsali,Reserved Parking,8500
+157,2,2,1000,Good,390003,30.912939,77.516777,8500,Gorwa,Reserved Parking,8500
+158,2,2,1250,Very Good,390021,22.308994,73.132439,8500,Gotri,"Reserved Parking,Lift,Security,Fire Alarm,Water Storage",8500
+159,2,2,1250,Good,390021,22.308994,73.132439,8500,Gotri,Reserved Parking,8500
+160,2,2,1200,Good,390014,22.247517,73.188065,8500,Makarpura,Reserved Parking,8500
+161,2,2,970,Good,390011,22.273439,73.196983,8500,Manjalpur,"Reserved Parking,Lift,Park",8500
+162,2,2,1000,Good,390018,22.320009,73.206841,8500,Karelibaug,"Reserved Parking,Water Storage",8500
+163,2,2,1100,Very Good,390003,30.912939,77.516777,8500,Gorwa,"Reserved Parking,Lift,Security,Park,Water Storage",8500
+164,2,2,1700,Good,390022,24.39711,84.474808,8500,Harni,"Reserved Parking,Lift,Park",8500
+165,2,2,1100,Good,390003,30.912939,77.516777,8500,Gorwa,"Reserved Parking,Water Storage",8500
+166,2,2,1100,Good,390003,30.912939,77.516777,9000,Gorwa,"Reserved Parking,Water Storage,Lift",9000
+167,2,2,950,Good,390003,30.912939,77.516777,9000,Gorwa,"Reserved Parking,Lift,Park",9000
+168,2,2,800,Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Lift",9000
+169,2,2,915,Very Good,390014,22.247517,73.188065,9000,Makarpura,"Reserved Parking,Garden,Water Storage,Park",9000
+170,3,3,1350,Good,390021,22.308994,73.132439,9000,Gotri,Reserved Parking,9000
+171,3,3,1300,Excellent ,390009,22.255501,73.216438,9000,Tarsali,"Reserved Parking,Water Storage,Lift,Garden,Security",9000
+172,3,3,1250,Good,390003,30.912939,77.516777,9000,Gorwa,"Reserved Parking,Water Storage,Park",9000
+173,2,2,1250,Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Park,Lift,Security",9000
+174,2,2,1000,Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Lift",9000
+175,2,2,1422,Good,391410,28.560324,77.161728,9000,Vasant Vihar,"Reserved Parking,Park,Lift,Security",9000
+176,2,2,1146,Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Lift,Security",9000
+177,2,2,1120,Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Lift,Security",9000
+178,2,2,1300,Very Good,391740,22.34415,73.16609,9000,TP 13,"Reserved Parking,Lift,Security,Fire Alarm,Water Storage",9000
+179,2,2,900,Good,390018,22.320009,73.206841,9000,Karelibaug,Reserved Parking,9000
+180,2,2,1145,Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Lift,Security",9000
+181,3,3,1300,Very Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Lift,Security,Fire Alarm,Water Storage",9000
+182,3,3,850,Good,390021,22.308994,73.132439,9000,Gotri,"Lift,Security,Park,Gym",9000
+183,3,3,1500,Excellent ,390003,30.912939,77.516777,9000,Gorwa,"Reserved Parking,Security,Park,Water Storage",9000
+184,2,2,1250,Very Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Water Storage,Lift,Garden,Security",9000
+185,2,2,1250,Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Lift,Security",9000
+186,2,2,1000,Good,390018,22.320009,73.206841,9000,Karelibaug,"Reserved Parking,Water Storage",9000
+187,2,2,1500,Good,390011,22.273439,73.196983,9000,Manjalpur,"Reserved Parking,Lift,Park",9000
+188,2,2,1080,Good,390003,30.912939,77.516777,9000,Gorwa,"Reserved Parking,Lift,Park",9000
+189,3,3,900,Good,390014,22.247517,73.188065,9000,Makarpura,Reserved Parking,9000
+190,2,2,1800,Very Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Lift,Security,Fire Alarm,Water Storage",9000
+191,3,3,1700,Very Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Lift,Water Storage,Park",9000
+192,2,2,1650,Good,390009,22.255501,73.216438,9000,Tarsali,"Reserved Parking,Water Storage",9000
+193,2,2,1210,Good,390014,22.247517,73.188065,9000,Makarpura,"Reserved Parking,Lift,Park",9000
+194,2,2,1146,Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Lift,Security",9000
+195,1,1,1100,Good,390024,22.455036,73.192182,9000,Sama-Savli Road,"Reserved Parking,Lift",9000
+196,3,3,1050,Good,390014,22.247517,73.188065,9000,Makarpura,Reserved Parking,9000
+197,3,3,1350,Good,390021,22.308994,73.132439,9000,Gotri,Reserved Parking,9000
+198,2,2,1060,Very Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Lift,Security,Fire Alarm,Water Storage",9000
+199,2,2,1145,Good,390021,22.308994,73.132439,9000,Gotri,"Reserved Parking,Lift,Security",9000
+200,2,2,1140,Good,390011,22.273439,73.196983,9500,Manjalpur,"Reserved Parking,Lift,Security",9500
+201,3,3,2000,Very Good,390003,30.912939,77.516777,9500,Gorwa,"Reserved Parking,Lift,Security,Fire Alarm,Water Storage",9500
+202,2,2,1180,Very Good,390003,30.912939,77.516777,9500,Gorwa,"Reserved Parking,Lift,Security,Fire Alarm,Water Storage",9500
+203,2,2,1350,Good,390021,22.308994,73.132439,9500,Gotri,"Reserved Parking,Lift,Security",9500
+204,2,2,1100,Good,390024,22.455036,73.192182,9500,Sama-Savli Road,Reserved Parking,9500
+205,2,2,1280,Good,390022,24.39711,84.474808,9500,Harni,"Reserved Parking,Water Storage,Lift",9500
+206,2,2,1200,Good,390018,22.320009,73.206841,9500,Karelibaug,Reserved Parking,9500
+207,3,3,1400,Good,390021,22.308994,73.132439,9500,Gotri,Lift,9500
+208,1,1,300,Good,390011,22.273439,73.196983,10000,Manjalpur,Reserved Parking,10000
+209,2,2,1100,Good,390018,22.320009,73.206841,10000,Karelibaug,"Reserved Parking,Park",10000
+210,2,2,1200,Good,391410,28.560324,77.161728,10000,Vasant Vihar,"Reserved Parking,Park,Lift,Security",10000
+211,2,2,1100,Good,390021,22.308994,73.132439,10000,Gotri,"Reserved Parking,Park,Lift,Security",10000
+212,2,2,1000,Very Good,390021,22.308994,73.132439,10000,Gotri,"Reserved Parking,Lift,Water Storage,Park",10000
+213,2,2,1000,Good,390021,22.308994,73.132439,10000,Gotri,Reserved Parking,10000
+214,2,2,1200,Good,390024,22.455036,73.192182,10000,Sama-Savli Road,"Reserved Parking,Park,Lift,Security",10000
+215,2,2,1500,Good,390021,22.308994,73.132439,10000,Gotri,"Reserved Parking,Park,Security",10000
+216,2,2,1200,Good,391410,28.560324,77.161728,10000,Vasant Vihar,"Reserved Parking,Park,Lift,Security",10000
+217,3,3,700,Good,390021,22.308994,73.132439,10000,Gotri,"Reserved Parking,Water Storage,Park",10000
+218,2,2,1180,Good,390003,30.912939,77.516777,10000,Gorwa,"Reserved Parking,Park,Lift,Security",10000
+219,2,2,1200,Good,390024,22.455036,73.192182,10000,Sama-Savli Road,"Reserved Parking,Park,Lift,Security",10000
+220,3,3,1250,Good,391410,28.560324,77.161728,10000,Vasant Vihar,"Reserved Parking,Park,Lift,Security",10000
+221,3,3,1500,Very Good,390012,22.30212,73.17474,12000,Shree Avenue,Reserved Parking/vitrified flooring/Lift,12000
+222,2,1,590,Good,390012,22.30212,73.17474,2000,Anupam Flats,Reserved Parking/ceramicflooring/Lift,2000
+223,2,1,1200,Good,390012,22.30212,73.17474,11000,Albert society,Reserved Parking/Mosaic Flooring,11000
+224,3,3,1800,Very Good,390012,22.30212,73.17474,14000,Shreeji Residency,Reserved Parking/vitrified flooring,14000
+225,1,1,800,Good,390012,22.30212,73.17474,8000,Sun Rays Reality,Reserved Parking/Mosaic Flooring,8000
+226,3,3,1650,Good,390012,22.30212,73.17474,16000,Jaydeep,Reserved Parking/ceramicflooring,16000
+227,2,2,1100,Good,390012,22.30212,73.17474,17000,Kanha Empire,Reserved Parking/Mosaic Flooring,17000
+228,3,3,2000,Very Good,390012,22.30212,73.17474,30000,Luxurious Apt.,Reserved Parking/ceramicflooring,30000
+229,2,2,1200,Very Good,390012,22.30212,73.17474,20000,Shil,Reserved Parking/Mosaic Flooring,20000
+230,4,4,2500,Good,390012,22.30212,73.17474,45000,Nand Residency,Reserved Parking/Mosaic Flooring,45000
+231,2,2,1250,Good,390012,22.30212,73.17474,10000,Spring Woods,Reserved Parking/ceramicflooring/Lift,10000
+232,1,1,650,Good,390012,22.30212,73.17474,6500,Mayank,Reserved Parking/Mosaic Flooring,6500
+233,1,1,350,Good,390012,22.30212,73.17474,4000,Mayank,Reserved Parking/ceramicflooring,4000
+234,3,2,1500,Very Good,390012,22.30212,73.17474,17000,Nand Residency,Reserved Parking/Mosaic Flooring,17000
+235,2,1,1150,Good,390012,22.30212,73.17474,8700,Old Padra ,Reserved Parking/Mosaic Flooring,8700
+236,2,2,1270,Good,390012,22.30212,73.17474,12000,Jaydeep,Reserved Parking/Mosaic Flooring,12000
+237,3,3,1650,Excellent ,390012,22.30212,73.17474,10000,Jaydeep,Reserved Parking/ceramicflooring/Lift,10000
+238,3,3,1820,Very Good,390012,22.30212,73.17474,15000,Mayank,Reserved Parking/Mosaic Flooring,15000
+239,1,1,1201,Good,390012,22.30212,73.17474,15000,Old Padra ,Reserved Parking/ceramicflooring,15000
+240,4,2,2500,Very Good,390012,22.30212,73.17474,12000,Old Padra ,Reserved Parking/ceramicflooring/Lift,12000
+241,3,3,2450,Good,390012,22.30212,73.17474,20000,Surya Kiran complex,Reserved Parking/Mosaic Flooring,20000
+242,3,3,1850,Very Good,390012,22.30212,73.17474,15000,Sai Charan,Reserved Parking/ceramicflooring,15000
+243,3,3,2000,Very Good,390012,22.30212,73.17474,14000,Sandip Society,Reserved Parking/ceramicflooring/Lift,14000
+244,3,3,1800,Good,390012,22.30212,73.17474,15000,RIV Residency,Reserved Parking/Mosaic Flooring,15000
+245,3,3,1700,Good,390012,22.30212,73.17474,14000,Datta Society,Reserved Parking/ceramicflooring,14000
+246,2,2,1200,Good,390012,22.30212,73.17474,13000,Shreev ,Reserved Parking/ceramicflooring/Lift,13000
+247,2,2,1400,Good,390012,22.30212,73.17474,9000,Shaswat Appt.,Reserved Parking/Mosaic Flooring,9000
+248,2,2,1150,Very Good,390012,22.30212,73.17474,9500,Sanjay Society,Reserved Parking/ceramicflooring,9500
+249,2,2,1236,Good,390012,22.30212,73.17474,10000,Mayank,Reserved Parking/ceramicflooring/Lift,10000
+250,1,1,200,Good,390012,22.30212,73.17474,4000,White house Soc.,Reserved Parking/ceramicflooring/Lift,4000
+251,1,1,650,Good,390012,22.30212,73.17474,6500,Mayank,Reserved Parking/ceramicflooring/Lift,6500
+252,3,3,2100,Very Good,390007,22.29857,73.14431,30000,Vasna road,Reserved Parking/ceramicflooring,30000
+253,3,3,1700,Good,390007,22.29857,73.14431,20000,Vasna road,Reserved Parking/Marble flooring,20000
+254,3,3,1400,Very Good,390007,22.29857,73.14431,16000,Vasna road,Reserved Parking/Mosaic Flooring,16000
+255,3,3,1600,Good,390007,22.29857,73.14431,17000,Pranam,Reserved Parking/Marble flooring,17000
+256,3,3,2000,Very Good,390007,22.29857,73.14431,40000,Vasna road,Reserved Parking/ceramicflooring,40000
+257,3,3,1700,Good,390007,22.29857,73.14431,13000,Earth Ecrica,Reserved Parking/ceramicflooring,13000
+258,3,3,1650,Good,390007,22.29857,73.14431,13000,Gratte Cirl,Reserved Parking/Mosaic Flooring,13000
+259,3,3,2095,Good,390007,22.29857,73.14431,25000,Othello Nautilus,Reserved Parking/Marble flooring,25000
+260,3,2,1700,Excellent ,390007,22.29857,73.14431,14000,Vasna road,Reserved Parking/Marble flooring,14000
+261,3,2,1800,Good,390007,22.29857,73.14431,20000,Shivalik Shiv Vatika,Reserved Parking/Marble flooring,20000
+262,2,1,850,Good,390007,22.29857,73.14431,7000,Shreeji Shakal,Reserved Parking/ceramicflooring,7000
+263,2,2,950,Good,390007,22.29857,73.14431,11500,Aditya Complex,Reserved Parking/Marble flooring,11500
+264,2,2,1150,Good,390007,22.29857,73.14431,10500,Luxurious Flat,Reserved Parking/ceramicflooring,10500
+265,3,2,1500,Good,390007,22.29857,73.14431,11000,Luxurious Flat,Reserved Parking/ceramicflooring/Lift,11000
+266,2,2,1300,Very Good,390007,22.29857,73.14431,14000,Luxurious Flat,Reserved Parking/ceramicflooring,14000
+267,1,1,1000,Good,390020,22.293989,73.176109,14000,Akota,Reserved Parking/ceramicflooring,14000
+268,3,3,2000,Very Good,390020,22.293989,73.176109,22000,Akota,Reserved Parking/Marble flooring,22000
+269,3,3,2200,Good,390020,22.293989,73.176109,25000,Akota,Reserved Parking/Mosaic Flooring,25000
+270,2,2,1200,Very Good,390020,22.293989,73.176109,10000,Akota,Reserved Parking/Marble flooring,10000
+271,3,3,1650,Good,390020,22.293989,73.176109,23000,Akota,Reserved Parking/Mosaic Flooring,23000
+272,3,3,1700,Very Good,390020,22.293989,73.176109,25000,Sun Rays Reality,Reserved Parking/Marble flooring,25000
+273,3,2,1800,Good,390020,22.293989,73.176109,25000,Urmi Society,Reserved Parking/Mosaic Flooring,25000
+274,3,3,1850,Good,390020,22.293989,73.176109,32000,Radha Krishna,Reserved Parking/Marble flooring,32000
+275,3,3,1750,Very Good,390020,22.293989,73.176109,20000,Urmi Society,Reserved Parking/Mosaic Flooring,20000
+276,3,3,2200,Good,390020,22.293989,73.176109,25000,Urmi Society,Reserved Parking/Marble flooring,25000
+277,3,3,2200,Very Good,390020,22.293989,73.176109,30000,Akota,Reserved Parking/Marble flooring,30000
+278,3,3,2280,Good,390020,22.293989,73.176109,32000,Akota Garden,Reserved Parking/Mosaic Flooring,32000
+279,3,3,2000,Good,390020,22.293989,73.176109,22000,Radha Krishna,Reserved Parking/Marble flooring,22000
+280,3,2,2400,Good,390020,22.293989,73.176109,24000,Akota,Reserved Parking/Marble flooring,24000
+281,3,3,2000,Very Good,390020,22.293989,73.176109,25000,Radha Krishna,Reserved Parking/Marble flooring,25000
+282,3,3,1850,Good,390020,22.293989,73.176109,22000,Urmi Society,Reserved Parking/Marble flooring,22000
+283,3,3,1700,Good,390020,22.293989,73.176109,17000,Akota,Reserved Parking/Marble flooring,17000
+284,3,3,2500,Very Good,390020,22.293989,73.176109,25000,Spandan Akota,Reserved Parking/Mosaic Flooring,25000
+285,3,3,1700,Good,390020,22.293989,73.176109,16000,Sun Rays Reality,Reserved Parking/Marble flooring,16000
+286,3,3,1800,Good,390020,22.293989,73.176109,16000,Urmi Society,Reserved Parking/Mosaic Flooring,16000
+287,2,2,1500,Excellent ,390020,22.293989,73.176109,17000,Classic Residency,Reserved Parking/Marble flooring,17000
+288,3,3,2000,Good,390020,22.293989,73.176109,18000,Shringar Society,Reserved Parking/Marble flooring,18000
+289,3,3,2000,Good,390020,22.293989,73.176109,18000,Akota,Reserved Parking/ceramicflooring,18000
+290,3,3,2000,Very Good,390023,22.31806,73.17823,30000,Alkapuri,Reserved Parking/Marble flooring,30000
+291,3,3,2000,Good,390023,22.31806,73.17823,35000,Alkapuri,Reserved Parking/ceramicflooring,35000
+292,3,4,2500,Very Good,390023,22.31806,73.17823,40000,Arunoday Society,Reserved Parking/Mosaic Flooring,40000
+293,3,3,2200,Good,390023,22.31806,73.17823,50000,luxrious Flat,Reserved Parking/Marble flooring,50000
+294,3,3,1750,Good,390023,22.31806,73.17823,30000,Arunoday Society,Reserved Parking/ceramicflooring,30000
+295,3,3,2000,Good,390023,22.31806,73.17823,35000,jetalpur,Reserved Parking/Mosaic Flooring,35000
+296,3,3,1800,Good,390023,22.31806,73.17823,17000,Alkapuri,Reserved Parking/Marble flooring,17000
+297,3,4,2500,Good,390023,22.31806,73.17823,50000,CHS,Reserved Parking/ceramicflooring,50000
+298,3,3,1800,Good,390023,22.31806,73.17823,33000,Alkapuri,Reserved Parking/ceramicflooring,33000
+299,3,3,1650,Good,390023,22.31806,73.17823,25000,Alkapuri,Reserved Parking/Marble flooring,25000
+300,3,3,2700,Good,390023,22.31806,73.17823,75000,Alkapuri,Reserved Parking/ceramicflooring,75000
+301,3,4,2600,Very Good,390023,22.31806,73.17823,70000,Mangla Green Leaf,Reserved Parking/ceramicflooring/Lift,70000
+302,3,3,2100,Good,390023,22.31806,73.17823,55000,Shagun Rescidency,Reserved Parking/Marble flooring,55000
+303,3,3,2400,Very Good,390023,22.31806,73.17823,60000,Royal  Leaf,Reserved Parking/ceramicflooring,60000
+304,4,5,6000,Very Good,390023,22.31806,73.17823,150000,Casa Central ,Reserved Parking/Marble flooring,150000
+305,3,3,2200,Good,390023,22.31806,73.17823,55000,Alakapur,Reserved Parking/Mosaic Flooring,55000
+306,3,4,1950,Very Good,390023,22.31806,73.17823,45000,Alkapuri,Reserved Parking/ceramicflooring,45000
+307,3,3,2600,Good,390023,22.31806,73.17823,60000,Royal Green,Reserved Parking/ceramicflooring,60000
+308,4,4,3300,Very Good,390023,22.31806,73.17823,75000,Jyati Resscidency,Reserved Parking/Mosaic Flooring,75000
+309,3,3,2200,Good,390023,22.31806,73.17823,50000,Alkapuri,Reserved Parking/Marble flooring,50000
+310,3,3,2500,Good,390023,22.31806,73.17823,55000,Sun Rescidency,Reserved Parking/ceramicflooring,55000
+311,4,4,3500,Very Good,390023,22.31806,73.17823,75000,Shantivan Rescidency,Reserved Parking/Mosaic Flooring,75000
+312,3,3,2300,Good,390023,22.31806,73.17823,50000,Shantivan Rescidency,Reserved Parking/ceramicflooring,50000
+313,2,2,1250,Good,390023,22.31806,73.17823,27000,Kunj Society,Reserved Parking/Marble flooring,27000
+314,3,3,2100,Good,390023,22.31806,73.17823,45000,Radhe Heights,Reserved Parking/Mosaic Flooring,45000
+315,3,3,2100,Good,390023,22.31806,73.17823,45000,Amrapali Rescidency,Reserved Parking/ceramicflooring,45000
+316,3,3,3000,Very Good,390023,22.31806,73.17823,60000,Riya Resicdency,Reserved Parking/Marble flooring,60000
+317,3,3,2000,Good,390023,22.31806,73.17823,36000,Chikuwadi,Reserved Parking/Mosaic Flooring,36000
+318,3,3,1650,Good,390023,22.31806,73.17823,30000,Crossword,Reserved Parking/ceramicflooring,30000
+319,2,2,1400,Good,390023,22.31806,73.17823,26000,Alkapuri,Reserved Parking/Marble flooring,26000
+320,3,2,2200,Very Good,390023,22.31806,73.17823,20000,Sandeep Apt.,Reserved Parking/ceramicflooring/Lift,20000
+321,3,3,2400,Good,390023,22.31806,73.17823,27000,Wings Rescidency,Reserved Parking/ceramicflooring,27000
+322,3,3,2100,Very Good,390023,22.31806,73.17823,40000,Shyama Rscidency,Reserved Parking/Marble flooring,40000
+323,3,3,1600,Good,390023,22.31806,73.17823,26000,Vinayak Soc.,Reserved Parking/Marble flooring,26000
+324,3,3,1250,Good,390023,22.31806,73.17823,25000,Neptune Trion ,Reserved Parking/ceramicflooring,25000
+325,3,4,2300,Good,390023,22.31806,73.17823,28000,Alkapuri,Reserved Parking/Marble flooring,28000
+326,3,3,2000,Good,390023,22.31806,73.17823,30000,Neptune trinity,Reserved Parking/Mosaic Flooring,30000
+327,3,3,2400,Very Good,390023,22.31806,73.17823,11000,Alkapuri,Reserved Parking/ceramicflooring,11000
+328,2,2,1250,Good,390023,22.31806,73.17823,11000,Shree Ganesh Appt.,Reserved Parking/Marble flooring,11000
+329,2,2,1200,Good,390023,22.31806,73.17823,10000,Nr.Genda Circle,Reserved Parking/ceramicflooring,10000
+330,3,2,1900,Good,390007,22.29857,73.14431,11500,Vasna ,Reserved Parking,11500
+331,3,3,2800,Very Good,390007,22.29857,73.14431,32000,Vasna ,"Reserved Parking,Security,Park",32000
+332,3,3,1500,Good,390012,22.30212,73.17474,12000,Old Padra ,"reserved Parking,Park,Lift",12000
+333,3,3,2206,Very Good,390007,22.29857,73.14431,30000,Vasna,"reserved Parking,Park,Lift",30000
+334,3,2,1400,Good,390007,22.29857,73.14431,13000,Vasna,Reserved Parking,13000
+335,3,3,1860,Good,390007,22.29857,73.14431,25000,Vasna,"Reserved Parking,Security,Park",25000
+336,3,3,1760,Excellent ,390007,22.29857,73.14431,17000,Vasna,"reserved Parking,Park,Lift",17000
+337,1,1,1000,Good,390020,22.29399,73.17611,14000,Akota,"reserved Parking,Park,Lift",14000
+338,3,3,2000,Good,390020,22.29399,73.17611,22000,Akota,"Reserved Parking,Security,Park",22000
+339,3,3,2000,Good,390007,22.29857,73.14431,20000,Vasna,"reserved Parking,Park,Lift",20000
+340,3,3,2200,Excellent ,390020,22.29399,73.17611,25000,Akota,Reserved Parking,25000
+341,3,3,1600,Good,390012,22.30212,73.17474,15000,Old Padra ,"reserved Parking,Park,Lift",15000
+342,3,3,2250,Good,390012,22.30212,73.17474,25000,Old Padra ,"Reserved Parking,Security,Park",25000
+343,3,3,2200,Good,390007,22.29857,73.14431,20000,Vasna,"reserved Parking,Park,Lift",20000
+344,3,3,1750,Very Good,390007,22.29857,73.14431,18000,Vasna,"Reserved Parking,Security,Park",18000
+345,3,3,1800,Good,390007,22.29857,73.14431,14500,Vasna,Reserved Parking,14500
+346,3,3,1800,Good,390023,22.31806,73.17823,45000,Alkapuri,"reserved Parking,Park,Lift",45000
+347,2,2,1250,Good,390007,22.29857,73.14431,9000,Vasna,"reserved Parking,Park,Lift",9000
+348,2,3,1500,Very Good,390023,22.31806,73.17823,16000,Alkapuri,"Reserved Parking,Security,Park",16000
+349,4,5,3200,Good,390007,22.29857,73.14431,40000,Vasna,Reserved Parking,40000
+350,3,3,2000,Good,390023,22.31806,73.17823,30000,Alkapuri,"reserved Parking,Park,Lift",30000
+351,3,3,1844,Good,390007,22.29857,73.14431,12000,Vasna,"reserved Parking,Park,Lift",12000
+352,3,3,1836,Good,390007,22.29857,73.14431,12000,Vasna,"reserved Parking,Park,Lift",12000
+353,3,3,1700,Very Good,390023,22.31806,73.17823,18000,Alkapuri,"Reserved Parking,Security,Park",18000
+354,3,3,1370,Good,390007,22.29857,73.14431,23000,Vasna,Reserved Parking,23000
+355,3,3,1850,Good,390023,22.31806,73.17823,22000,Alkapuri,"Reserved Parking,Security,Park",22000
+356,2,2,1200,Good,390020,22.29399,73.17611,10000,Akota,"reserved Parking,Park,Lift",10000
+357,3,3,2300,Good,390007,22.29857,73.14431,13000,Vasna,"Reserved Parking,Security,Park",13000
+358,3,3,2200,Good,390020,22.29399,73.17611,25000,Akota,"reserved Parking,Park,Lift",25000
+359,3,3,2000,Good,390020,22.29399,73.17611,23000,Akota,"Reserved Parking,Security,Park",23000
+360,3,4,2500,Very Good,390007,22.29857,73.14431,22000,Vasna,"Security,Garden",22000
+361,3,3,1750,Good,390007,22.29857,73.14431,16000,Vasna,"Security,Garden",16000
+362,3,3,2000,Good,390007,22.29857,73.14431,17000,Vasna,"reserved Parking,Park,Lift",17000
+363,3,3,2000,Good,390007,22.29857,73.14431,16000,Vasna,"Security,Garden",16000
+364,3,3,1850,Very Good,390007,22.29857,73.14431,15000,Vasna,"Reserved Parking,Security,Park",15000
+365,3,3,2000,Good,390007,22.29857,73.14431,18000,Vasna,"reserved Parking,Park,Lift",18000
+366,3,3,1650,Good,390012,22.30212,73.17474,16000,Old Padra ,Reserved Parking,16000
+367,3,3,1700,Good,390020,22.29399,73.17611,25000,Akota,"Reserved Parking,Security,Park",25000
+368,2,3,1500,Very Good,390023,22.31806,73.17823,16000,Alkapuri,"reserved Parking,Park,Lift",16000
+369,4,5,3200,Good,390007,22.29857,73.14431,40000,Vasna,"Reserved Parking,Security,Park",40000
+370,3,3,2000,Good,390023,22.31806,73.17823,30000,Alkapuri,"reserved Parking,Park,Lift",30000
+371,3,3,1844,Good,390007,22.29857,73.14431,12000,Vasna,"reserved Parking,Park,Lift",12000
+372,3,3,1836,Good,390007,22.29857,73.14431,12000,Vasna,"reserved Parking,Park,Lift",12000
+373,3,3,1700,Good,390023,22.31806,73.17823,18000,Alkapuri,Reserved Parking,18000
+374,3,3,1370,Good,390007,22.29857,73.14431,23000,Vasna,"Reserved Parking,Security,Park",23000
+375,3,3,2300,Good,390007,22.29857,73.14431,13000,Vasna,"reserved Parking,Park,Lift",13000
+376,3,3,2200,Good,390020,22.29399,73.17611,25000,Akota,Reserved Parking,25000
+377,3,3,2000,Good,390020,22.29399,73.17611,23000,Akota,"Security,Garden",23000
+378,3,4,2500,Very Good,390007,22.29857,73.14431,22000,Vasna,"Reserved Parking,Security,Park",22000
+379,3,3,1750,Good,390007,22.29857,73.14431,16000,Vasna,Reserved Parking,16000
+380,3,3,2000,Good,390007,22.29857,73.14431,17000,Vasna,"Security,Garden",17000
+381,3,3,2000,Very Good,390007,22.29857,73.14431,16000,Vasna,"Reserved Parking,Security,Park",16000
+382,3,3,1850,Good,390007,22.29857,73.14431,15000,Vasna,Reserved Parking,15000
+383,3,3,2000,Good,390007,22.29857,73.14431,18000,Vasna,"Security,Garden",18000
+384,3,3,1650,Very Good,390012,22.30212,73.17474,16000,Old Padra ,"Reserved Parking,Security,Park",16000
+385,3,3,1700,Good,390020,22.29399,73.17611,25000,Akota,"Security,Garden",25000
+386,2,3,1500,Good,390023,22.31806,73.17823,16000,Alkapuri,Reserved Parking,16000
+387,3,3,1844,Good,390007,22.29857,73.14431,12000,Vasna,"Security,Garden",12000
+388,3,3,1836,Very Good,390007,22.29857,73.14431,12000,Vasna,"Reserved Parking,Security,Park",12000
+389,3,3,1370,Good,390007,22.29857,73.14431,23000,Vasna,Reserved Parking,23000
+390,3,3,1850,Good,390020,22.29399,73.17611,22000,Akota,"Security,Garden",22000
+391,2,2,1200,Very Good,390020,22.29399,73.17611,10000,Akota,"Reserved Parking,Security,Park",10000
+392,3,3,2300,Good,390007,22.29857,73.14431,13000,Vasna,"Security,Garden",13000
+393,3,3,2200,Good,390020,22.29399,73.17611,25000,Akota,Reserved Parking,25000
+394,3,3,1750,Very Good,390007,22.29857,73.14431,16000,Vasna,"Security,Garden",16000
+395,3,3,2000,Good,390007,22.29857,73.14431,17000,Vasna,"Reserved Parking,Security,Park",17000
+396,3,3,1850,Very Good,390007,22.29857,73.14431,15000,Vasna,"Security,Garden",15000
+397,3,3,1500,Good,390007,22.29857,73.14431,18000,Vasna,"Reserved Parking,Security,Park",18000
+398,3,4,2500,Good,390023,22.31806,73.17823,40000,Alkapuri,"Security,Garden",40000
+399,3,3,1500,Very Good,390007,22.29857,73.14431,16000,Vasna,Reserved Parking,16000
+400,2,3,1100,Good,390020,22.29399,73.17611,8000,Akota,Reserved Parking,8000
+401,1,1,1000,Good,390007,22.29857,73.14431,6500,Vasna,"Security,Garden",6500
+402,3,3,1200,Very Good,390007,22.29857,73.14431,15000,Vasna,"Reserved Parking,Security,Park",15000
+403,4,3,2152,Good,390007,22.29857,73.14431,15000,Vasna,"Security,Garden",15000
+404,3,3,1100,Very Good,390020,22.29399,73.17611,17000,Akota,"Reserved Parking,Security,Park",17000
+405,3,3,1400,Good,390007,22.29857,73.14431,15000,Vasna,"Security,Garden",15000
+406,2,1,1000,Good,390012,22.30212,73.17474,11000,Old Padra ,Reserved Parking,11000
+407,3,3,1500,Very Good,390007,22.29857,73.14431,12000,Vasna,"Security,Garden",12000
+408,3,3,2000,Good,390023,22.31806,73.17823,28000,Alkapuri,"Reserved Parking,Security,Park",28000
+409,3,3,1590,Very Good,390007,22.29857,73.14431,25000,Vasna,"Security,Garden",25000
+410,4,5,4000,Good,390007,22.29857,73.14431,75000,Vasna,"reserved Parking,Park,Lift",75000
+411,3,3,1100,Good,390007,22.29857,73.14431,15000,Vasna,Reserved Parking,15000
+412,3,3,1900,Good,390007,22.29857,73.14431,14000,Vasna,"Reserved Parking,Security,Park",14000
+413,4,3,1500,Good,390007,22.29857,73.14431,15000,Vasna,"Security,Garden",15000
+414,3,3,1800,Very Good,390007,22.29857,73.14431,15000,Vasna,"Reserved Parking,Security,Park",15000
+415,3,3,2000,Good,390020,22.29399,73.17611,40000,Akota,"Security,Garden",40000
+416,2,2,1250,Good,390007,22.29857,73.14431,10000,Vasna,Reserved Parking,10000
+417,3,3,3000,Good,390020,22.29399,73.17611,17000,Akota,"Security,Garden",17000
+418,4,3,2100,Good,390007,22.29857,73.14431,22000,Vasna,Reserved Parking,22000
